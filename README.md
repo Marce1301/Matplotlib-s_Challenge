@@ -22,3 +22,9 @@ Calculate correlation and regression.
 
 Submit your final analysis.
 
+# Results
+The total number of mice is 249, with one duplicate ID (g989) .By removing duplicates the total number of mice is 248. 
+The bar graph showed the Drug Regimen Capomulin has the maximum mice number (230), and Zoniferol has the smaller mice number (182).
+The total count of mice by gender also showed that 124 female mice and 125 male mice.
+The correlation between mouse weight, and average tumor volume is 0.84 so we can say it is a strong positive correlation, when the mouse weight increases the average tumor volume also increases.
+The regression analysis helped to understand how much the average tumor volume (dependent variable) will change when weight of mice change(independent variables). 
